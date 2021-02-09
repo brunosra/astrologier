@@ -1,0 +1,17 @@
+{
+  "auxVerbs" : [
+    "should", "could", "may", "shouldn't", "couldn't", "may not"
+  ],
+  "verbs" : [
+    "eat", "play with", "draw", "escape from", "cook", "run away from", "have", "do", "watch", "see"
+  ],
+  "adverbs" : [
+    "more", "less", "a lot", "a little bit", "fewer", "lots"
+  ],
+  "adjectives" : [
+    "tasty", "sexy", "simple", "asian", "qualified", "beautiful", "ugly"
+  ],
+  "nouns" : [
+    "vegetables", "meat", "food", "toys", "sex", "people", "things", "movies", "classmates"
+  ]
+}

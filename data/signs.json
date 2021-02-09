@@ -1,0 +1,50 @@
+{
+  "aries" : {
+    "symbol" : "♈️",
+    "name" : "Aries"
+  },
+  "taurus" : {
+    "symbol" : "♉️",
+    "name" : "Taurus"
+  },
+  "gemini" : {
+    "symbol" : "♊️",
+    "name" : "Gemini"
+  },
+  "cancer" : {
+    "symbol" : "♋️",
+    "name" : "Cancer"
+  },
+  "leo" : {
+    "symbol" : "♌️",
+    "name" : "Leo"
+  },
+  "virgo" : {
+    "symbol" : "♍️",
+    "name" : "Virgo"
+  },
+  "libra" : {
+    "symbol" : "♎️",
+    "name" : "Libra"
+  },
+  "scorpio" : {
+    "symbol" : "♏️",
+    "name" : "Scorpio"
+  },
+  "sagittarius" : {
+    "symbol" : "♐️",
+    "name" : "Sagittarius"
+  },
+  "capricorn" : {
+    "symbol" : "♑️",
+    "name" : "Capricorn"
+  },
+  "aquarius" : {
+    "symbol" : "♒️",
+    "name" : "Aquarius"
+  },
+  "pisces" : {
+    "symbol" : "♓️",
+    "name" : "Pisces"
+  }
+}
